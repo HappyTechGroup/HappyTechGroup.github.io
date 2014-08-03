@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/all.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2014-07-29T00:00:00+08:00</updated><entry><title>关于成立“众成技术聚乐部”的倡议</title><link href="http://happytechgroup.github.io/2014/07/29/about-zhongcheng/" rel="alternate"></link><updated>2014-07-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-07-29:2014/07/29/about-zhongcheng/</id><summary type="html">&lt;h3&gt;理念&lt;/h3&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/all.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2014-08-03T00:00:00+08:00</updated><entry><title>“众成技术聚乐部”筹划会议</title><link href="http://happytechgroup.github.io/2014/08/03/group-first-conf/" rel="alternate"></link><updated>2014-08-03T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-08-03:2014/08/03/group-first-conf/</id><summary type="html">&lt;p&gt;经讨论决定：&lt;/p&gt;
+&lt;p&gt;聚乐部分享内容大致涵盖如下主题&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;常见NoSQL数据库原理与实现（Leveldb、Redis、Memcached）&lt;/li&gt;
+&lt;li&gt;消息队列（Kafka、NSQ）&lt;/li&gt;
+&lt;li&gt;机器学习&lt;/li&gt;
+&lt;li&gt;分布式系统原理与实现（Zookeeper、ectd）&lt;/li&gt;
+&lt;li&gt;...&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;接下来半年时间主要针对&lt;strong&gt;主题1、2&lt;/strong&gt;进行研习分享，一、二期的具体安排如下：&lt;/p&gt;
+&lt;p&gt;第一期（2014-08-31）分享计划：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《Leveldb(Go语言版)源码剖析与应用分析》，分享人：youngsterxyf&lt;/li&gt;
+&lt;li&gt;《Redis关键特性源码剖析》，分享人：蕾哥&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;第二期（2014-09-30）分享计划：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;《NSQ原理与实现》，分享人：爽哥&lt;/li&gt;
+&lt;li&gt;《Memcached原理与实习那》，分享人：侯哥，及所有成员&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;计划暂定如上。主题分享的同时可能还有尽兴分享。&lt;/p&gt;</summary><category term="会议"></category><category term="记录"></category></entry><entry><title>关于成立“众成技术聚乐部”的倡议</title><link href="http://happytechgroup.github.io/2014/07/29/about-zhongcheng/" rel="alternate"></link><updated>2014-07-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-07-29:2014/07/29/about-zhongcheng/</id><summary type="html">&lt;h3&gt;理念&lt;/h3&gt;
 &lt;p&gt;目前开源社区类似的俱乐部、交流活动不少,但内容都偏向浮泛,甚至成为了赞助商的广告平
 台。对于多数程序员自身技术能力的提高来说,更重要的是围绕技术主题,系统深入地学习讨
 论。计算机技术发展至今日,分门别类非常多,仅靠一人之力,要想在广度深度上都有较好的
