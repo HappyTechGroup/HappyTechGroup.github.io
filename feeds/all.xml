@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/all.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2014-08-03T00:00:00+08:00</updated><entry><title>“众成技术聚乐部”筹划会议</title><link href="http://happytechgroup.github.io/2014/08/03/group-first-conf/" rel="alternate"></link><updated>2014-08-03T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-08-03:2014/08/03/group-first-conf/</id><summary type="html">&lt;p&gt;经讨论决定：&lt;/p&gt;
 &lt;p&gt;聚乐部分享内容大致涵盖如下主题&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;常见NoSQL数据库原理与实现（Leveldb、Redis、Memcached）&lt;/li&gt;
-&lt;li&gt;消息队列（Kafka、NSQ）&lt;/li&gt;
+&lt;li&gt;常见NoSQL数据库原理与实现（Leveldb、Redis、Memcached等）&lt;/li&gt;
+&lt;li&gt;消息队列（Kafka、NSQ等）&lt;/li&gt;
 &lt;li&gt;机器学习&lt;/li&gt;
-&lt;li&gt;分布式系统原理与实现（Zookeeper、ectd）&lt;/li&gt;
+&lt;li&gt;分布式系统原理与实现（Zookeeper、etcd等）&lt;/li&gt;
 &lt;li&gt;...&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;接下来半年时间主要针对&lt;strong&gt;主题1、2&lt;/strong&gt;进行研习分享，一、二期的具体安排如下：&lt;/p&gt;
