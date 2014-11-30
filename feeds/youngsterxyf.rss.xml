@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/all.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2014-11-30T00:00:00+08:00</updated><entry><title>第四期分享活动</title><link href="http://happytechgroup.github.io/2014/11/30/4th-phase-share/" rel="alternate"></link><updated>2014-11-30T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-11-30:2014/11/30/4th-phase-share/</id><summary type="html">&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 30 Nov 2014 00:00:00 +0800</lastBuildDate><item><title>第四期分享活动</title><link>http://happytechgroup.github.io/2014/11/30/4th-phase-share/</link><description>&lt;ul&gt;
 &lt;li&gt;Yii框架原理简介&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：&lt;a href="https://github.com/youngsterxyf"&gt;youngsterxyf&lt;/a&gt;&lt;/p&gt;
@@ -17,7 +17,7 @@
 &lt;li&gt;前端集成开发解决方案，分享人：&lt;a href="https://github.com/gejiawen"&gt;文哥&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
-&lt;p&gt;谢谢！&lt;/p&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>第三期分享活动</title><link href="http://happytechgroup.github.io/2014/11/02/3rd-phase-share/" rel="alternate"></link><updated>2014-11-02T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-11-02:2014/11/02/3rd-phase-share/</id><summary type="html">&lt;ul&gt;
+&lt;p&gt;谢谢！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Sun, 30 Nov 2014 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2014-11-30:2014/11/30/4th-phase-share/</guid><category>分享</category><category>记录</category></item><item><title>第三期分享活动</title><link>http://happytechgroup.github.io/2014/11/02/3rd-phase-share/</link><description>&lt;ul&gt;
 &lt;li&gt;NSQ原理与实现&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：&lt;a href="https://github.com/seanluo"&gt;爽哥&lt;/a&gt;&lt;/p&gt;
@@ -39,7 +39,7 @@
 &lt;ul&gt;
 &lt;li&gt;网络协议相关，分享人：松哥&lt;/li&gt;
 &lt;li&gt;NodeJS原理相关，分享人：文哥&lt;/li&gt;
-&lt;/ul&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>第二期分享活动</title><link href="http://happytechgroup.github.io/2014/09/21/2nd-phase-share/" rel="alternate"></link><updated>2014-09-21T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-09-21:2014/09/21/2nd-phase-share/</id><summary type="html">&lt;ul&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Sun, 02 Nov 2014 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2014-11-02:2014/11/02/3rd-phase-share/</guid><category>分享</category><category>记录</category></item><item><title>第二期分享活动</title><link>http://happytechgroup.github.io/2014/09/21/2nd-phase-share/</link><description>&lt;ul&gt;
 &lt;li&gt;Memcached原理与实现&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：侯哥&lt;/p&gt;
@@ -63,7 +63,7 @@
 &lt;li&gt;《MongoDB实践》，分享人：任哥&lt;/li&gt;
 &lt;li&gt;《Raft协议与etcd》，分享人：youngsterxyf ---（暂定）&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;今天有几位新朋友参加了活动，非常开心！&lt;/p&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>第一期分享活动</title><link href="http://happytechgroup.github.io/2014/08/31/1st-phase-share/" rel="alternate"></link><updated>2014-08-31T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-08-31:2014/08/31/1st-phase-share/</id><summary type="html">&lt;p&gt;今天，众成技术聚乐部的第一起分享活动，如期举行。主题如下：&lt;/p&gt;
+&lt;p&gt;今天有几位新朋友参加了活动，非常开心！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Sun, 21 Sep 2014 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2014-09-21:2014/09/21/2nd-phase-share/</guid><category>分享</category><category>记录</category></item><item><title>第一期分享活动</title><link>http://happytechgroup.github.io/2014/08/31/1st-phase-share/</link><description>&lt;p&gt;今天，众成技术聚乐部的第一起分享活动，如期举行。主题如下：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Leveldb原理剖析&lt;/li&gt;
 &lt;/ul&gt;
@@ -86,7 +86,7 @@
 &lt;li&gt;《NSQ原理与实现》，分享人：爽哥&lt;/li&gt;
 &lt;li&gt;《Zookeeper原理与实践》，分享人：龙哥&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;感谢今天所有到场参与的人员！&lt;/p&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>“众成技术聚乐部”筹划会议</title><link href="http://happytechgroup.github.io/2014/08/03/group-first-conf/" rel="alternate"></link><updated>2014-08-03T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-08-03:2014/08/03/group-first-conf/</id><summary type="html">&lt;p&gt;经讨论决定：&lt;/p&gt;
+&lt;p&gt;感谢今天所有到场参与的人员！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Sun, 31 Aug 2014 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2014-08-31:2014/08/31/1st-phase-share/</guid><category>分享</category><category>记录</category></item><item><title>“众成技术聚乐部”筹划会议</title><link>http://happytechgroup.github.io/2014/08/03/group-first-conf/</link><description>&lt;p&gt;经讨论决定：&lt;/p&gt;
 &lt;p&gt;聚乐部分享内容大致涵盖如下主题&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;常见NoSQL数据库原理与实现（Leveldb、Redis、Memcached等）&lt;/li&gt;
@@ -106,7 +106,7 @@
 &lt;li&gt;《NSQ原理与实现》，分享人：爽哥&lt;/li&gt;
 &lt;li&gt;《Memcached原理与实现》，分享人：侯哥，及所有成员&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;计划暂定如上。主题分享的同时可能还有尽兴分享。&lt;/p&gt;</summary><category term="会议"></category><category term="记录"></category></entry><entry><title>关于成立“众成技术聚乐部”的倡议</title><link href="http://happytechgroup.github.io/2014/07/29/about-zhongcheng/" rel="alternate"></link><updated>2014-07-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-07-29:2014/07/29/about-zhongcheng/</id><summary type="html">&lt;h3&gt;理念&lt;/h3&gt;
+&lt;p&gt;计划暂定如上。主题分享的同时可能还有尽兴分享。&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Sun, 03 Aug 2014 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2014-08-03:2014/08/03/group-first-conf/</guid><category>会议</category><category>记录</category></item><item><title>关于成立“众成技术聚乐部”的倡议</title><link>http://happytechgroup.github.io/2014/07/29/about-zhongcheng/</link><description>&lt;h3&gt;理念&lt;/h3&gt;
 &lt;p&gt;目前开源社区类似的俱乐部、交流活动不少,但内容都偏向浮泛,甚至成为了赞助商的广告平
 台。对于多数程序员自身技术能力的提高来说,更重要的是围绕技术主题,系统深入地学习讨
 论。计算机技术发展至今日,分门别类非常多,仅靠一人之力,要想在广度深度上都有较好的
@@ -121,4 +121,4 @@
 &lt;li&gt;建立聚乐部微博等社交帐号,对外宣传聚乐部活动,吸引更多志同道合的技术爱好者来申请成为聚乐部成员&lt;/li&gt;
 &lt;li&gt;聚乐部活动需要的场地暂由XXX公司提供;某些聚乐部成员能够提供场地的话,也可以选择&lt;/li&gt;
 &lt;li&gt;聚乐部活动可能产生的费用开销,由聚乐部成员共同承担&lt;/li&gt;
-&lt;/ol&gt;</summary><category term="公告"></category></entry></feed>
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Tue, 29 Jul 2014 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2014-07-29:2014/07/29/about-zhongcheng/</guid><category>公告</category></item></channel></rss>
