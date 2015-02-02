@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2014-12-28T00:00:00+08:00</updated><entry><title>第五期分享活动</title><link href="http://happytechgroup.github.io/2014/12/28/5th-phase-share/" rel="alternate"></link><updated>2014-12-28T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-12-28:2014/12/28/5th-phase-share/</id><summary type="html">&lt;ul&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-02-01T00:00:00+08:00</updated><entry><title>第六期分享活动</title><link href="http://happytechgroup.github.io/2015/02/01/6th-phase-share/" rel="alternate"></link><updated>2015-02-01T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-02-01:2015/02/01/6th-phase-share/</id><summary type="html">&lt;ul&gt;
+&lt;li&gt;内部边界网关协议EIGRP简介&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分享人：&lt;a href="https://github.com/aachenxiaosong"&gt;松哥&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;幻灯片：&lt;a href="http://pan.baidu.com/s/1mgn6Ruo"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;ul&gt;
+&lt;li&gt;众成回顾与展望&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;主持人：&lt;a href="https://github.com/youngsterxyf"&gt;youngsterxyf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;讨论内容：&lt;/p&gt;
+&lt;p&gt;&lt;img alt="zc-2015" src="https://raw.githubusercontent.com/HappyTechGroup/HappyTechGroup.github.io/master/upload/pics/zc.png" /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;下期分享安排：&lt;/p&gt;
+&lt;p&gt;第七期（2015-03-01）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;scrapy爬虫框架原理与应用，分享人：&lt;a href="https://github.com/qian-zhu"&gt;潜哥&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux系统编程简介系列一，分享人：&lt;a href="https://github.com/youngsterxyf"&gt;youngsterxyf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;谢谢！&lt;/p&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>第五期分享活动</title><link href="http://happytechgroup.github.io/2014/12/28/5th-phase-share/" rel="alternate"></link><updated>2014-12-28T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2014-12-28:2014/12/28/5th-phase-share/</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;这些年前端的那些事儿&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：&lt;a href="https://github.com/gejiawen"&gt;文哥&lt;/a&gt;&lt;/p&gt;
@@ -11,7 +31,7 @@
 &lt;p&gt;幻灯片：&lt;a href="http://pan.baidu.com/s/1mgp7Duo"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;p&gt;下一期安排计划如下：&lt;/p&gt;
-&lt;p&gt;第五期（2015-01-31）：&lt;/p&gt;
+&lt;p&gt;第六期（2015-01-31）：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;经典网络协议算法，分享人：&lt;a href="https://github.com/aachenxiaosong"&gt;松哥&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;scrapy爬虫框架原理与应用，分享人：&lt;a href="https://github.com/qian-zhu"&gt;潜哥&lt;/a&gt;&lt;/li&gt;
