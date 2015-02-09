@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-02-07T00:00:00+08:00</updated><entry><title>众成技术聚乐部2015上半年计划</title><link href="http://happytechgroup.github.io/2015/02/07/2015-plan/" rel="alternate"></link><updated>2015-02-07T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-02-07:2015/02/07/2015-plan/</id><summary type="html">&lt;p&gt;上周的分享会议讨论确定对聚乐部的运行机制做点调整。以前聚乐部的分享计划是先确定主题范围，然后每次分享时确定下下次分享的人员、题目。这种方式的问题是过程不太可控。现优化调整为：&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-02-07T00:00:00+08:00</updated><entry><title>众成技术聚乐部2015计划</title><link href="http://happytechgroup.github.io/2015/02/07/2015-plan/" rel="alternate"></link><updated>2015-02-07T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-02-07:2015/02/07/2015-plan/</id><summary type="html">&lt;p&gt;上周的分享会议讨论确定对聚乐部的运行机制做点调整。以前聚乐部的分享计划是先确定主题范围，然后每次分享时确定下下次分享的人员、题目。这种方式的问题是过程不太可控。现优化调整为：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;先大家讨论确定主题范围&lt;/li&gt;
 &lt;li&gt;根据主题范围，聚乐部成员各自确定自己的能力成长计划：选个主题方向（可以不再已有主题范围内，当然最好在其中选择），确定最终的输出是演讲报告还是项目代码；如果是演讲报告，计划做几次分享，大致时间；如果是项目代码，大致什么时间点出原型。&lt;/li&gt;
@@ -190,6 +190,19 @@
 &lt;ul&gt;
 &lt;li&gt;松哥：SDN/Openflow相关&lt;/li&gt;
 &lt;li&gt;文哥：轻量分享-Es6/Es7相关&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;第15期（2015-11-01）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;侯哥：数据库运维相关经验分享&lt;/li&gt;
+&lt;li&gt;youngsterxyf + 任哥：Nginx源码分析&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;第16期（2016-01-02）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;总结与计划&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
