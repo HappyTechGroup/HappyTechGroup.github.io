@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 07 Feb 2015 00:00:00 +0800</lastBuildDate><item><title>众成技术聚乐部2015计划</title><link>http://happytechgroup.github.io/2015/02/07/2015-plan/</link><description>&lt;p&gt;上周的分享会议讨论确定对聚乐部的运行机制做点调整。以前聚乐部的分享计划是先确定主题范围，然后每次分享时确定下下次分享的人员、题目。这种方式的问题是过程不太可控。现优化调整为：&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 08 Mar 2015 00:00:00 +0800</lastBuildDate><item><title>第7期分享活动</title><link>http://happytechgroup.github.io/2015/03/08/7th-phase-share/</link><description>&lt;ul&gt;
+&lt;li&gt;Linux系统编程简介（1）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;分享人：&lt;a href="https://github.com/youngsterxyf"&gt;youngsterxyf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;幻灯片：&lt;a href="http://youngsterxyf.github.io/slides/tlpi-1/index.html#/"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;下期分享安排：&lt;/p&gt;
+&lt;p&gt;第8期（2015-03-29）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nginx + Lua的应用（邀请演讲） / scrapy爬虫框架原理与应用（分享人：&lt;a href="https://github.com/qian-zhu"&gt;潜哥&lt;/a&gt;）&lt;/li&gt;
+&lt;li&gt;上海购房（二手房）指南 （分享人：&lt;a href="https://github.com/seanluo"&gt;爽哥&lt;/a&gt; + &lt;a href="https://github.com/simonhou"&gt;侯哥&lt;/a&gt;）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;另，计划：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;录制技术分享视频（屏幕录制），发往视频网站或某个在线教育方面的站点&lt;/li&gt;
+&lt;li&gt;尝试邀请创业公司方面的嘉宾来交流&lt;/li&gt;
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Sun, 08 Mar 2015 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2015-03-08:2015/03/08/7th-phase-share/</guid><category>分享</category><category>记录</category></item><item><title>众成技术聚乐部2015计划</title><link>http://happytechgroup.github.io/2015/02/07/2015-plan/</link><description>&lt;p&gt;上周的分享会议讨论确定对聚乐部的运行机制做点调整。以前聚乐部的分享计划是先确定主题范围，然后每次分享时确定下下次分享的人员、题目。这种方式的问题是过程不太可控。现优化调整为：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;先大家讨论确定主题范围&lt;/li&gt;
 &lt;li&gt;根据主题范围，聚乐部成员各自确定自己的能力成长计划：选个主题方向（可以不再已有主题范围内，当然最好在其中选择），确定最终的输出是演讲报告还是项目代码；如果是演讲报告，计划做几次分享，大致时间；如果是项目代码，大致什么时间点出原型。&lt;/li&gt;
