@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/all.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-03-08T00:00:00+08:00</updated><entry><title>第7期分享活动</title><link href="http://happytechgroup.github.io/2015/03/08/7th-phase-share/" rel="alternate"></link><updated>2015-03-08T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-03-08:2015/03/08/7th-phase-share/</id><summary type="html">&lt;ul&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/all.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-03-29T00:00:00+08:00</updated><entry><title>第8期分享活动</title><link href="http://happytechgroup.github.io/2015/03/29/8th-phase-share/" rel="alternate"></link><updated>2015-03-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-03-29:2015/03/29/8th-phase-share/</id><summary type="html">&lt;h4&gt;上海购房（二手房）指南/心得&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;侯哥：&lt;a href="http://simonhou.github.io/second-hand-housing"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;爽哥：&lt;a href="http://pan.baidu.com/s/1bnEpYs3"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h4&gt;下期分享安排&lt;/h4&gt;
+&lt;p&gt;第9期（2015-05-09）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;icake：浅谈纯前端模板&lt;/li&gt;
+&lt;li&gt;蕾哥：libevent原理与应用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;谢谢！&lt;/p&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>第7期分享活动</title><link href="http://happytechgroup.github.io/2015/03/08/7th-phase-share/" rel="alternate"></link><updated>2015-03-08T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-03-08:2015/03/08/7th-phase-share/</id><summary type="html">&lt;ul&gt;
 &lt;li&gt;Linux系统编程简介（1）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：&lt;a href="https://github.com/youngsterxyf"&gt;youngsterxyf&lt;/a&gt;&lt;/p&gt;
@@ -250,7 +263,7 @@
 &lt;li&gt;这些年前端的那些事儿&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：&lt;a href="https://github.com/gejiawen"&gt;文哥&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;幻灯片：&lt;a href="http://gejiawen.github.io/labs/slides/things-for-fe-in-these-years/#/"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;幻灯片：&lt;a href="http://gejiawen.github.io/slides/things-for-fe-in-these-years/#/"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Docker技术简介&lt;/li&gt;
 &lt;/ul&gt;

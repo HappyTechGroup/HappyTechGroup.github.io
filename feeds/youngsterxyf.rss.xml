@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 08 Mar 2015 00:00:00 +0800</lastBuildDate><item><title>第7期分享活动</title><link>http://happytechgroup.github.io/2015/03/08/7th-phase-share/</link><description>&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 29 Mar 2015 00:00:00 +0800</lastBuildDate><item><title>第8期分享活动</title><link>http://happytechgroup.github.io/2015/03/29/8th-phase-share/</link><description>&lt;h4&gt;上海购房（二手房）指南/心得&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;侯哥：&lt;a href="http://simonhou.github.io/second-hand-housing"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;爽哥：&lt;a href="http://pan.baidu.com/s/1bnEpYs3"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;h4&gt;下期分享安排&lt;/h4&gt;
+&lt;p&gt;第9期（2015-05-09）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;icake：浅谈纯前端模板&lt;/li&gt;
+&lt;li&gt;蕾哥：libevent原理与应用&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;谢谢！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Sun, 29 Mar 2015 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2015-03-29:2015/03/29/8th-phase-share/</guid><category>分享</category><category>记录</category></item><item><title>第7期分享活动</title><link>http://happytechgroup.github.io/2015/03/08/7th-phase-share/</link><description>&lt;ul&gt;
 &lt;li&gt;Linux系统编程简介（1）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：&lt;a href="https://github.com/youngsterxyf"&gt;youngsterxyf&lt;/a&gt;&lt;/p&gt;
@@ -250,7 +263,7 @@
 &lt;li&gt;这些年前端的那些事儿&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;分享人：&lt;a href="https://github.com/gejiawen"&gt;文哥&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;幻灯片：&lt;a href="http://gejiawen.github.io/labs/slides/things-for-fe-in-these-years/#/"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;幻灯片：&lt;a href="http://gejiawen.github.io/slides/things-for-fe-in-these-years/#/"&gt;戳这里&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Docker技术简介&lt;/li&gt;
 &lt;/ul&gt;
