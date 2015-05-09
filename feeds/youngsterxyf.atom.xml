@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-03-29T00:00:00+08:00</updated><entry><title>第8期分享活动</title><link href="http://happytechgroup.github.io/2015/03/29/8th-phase-share/" rel="alternate"></link><updated>2015-03-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-03-29:2015/03/29/8th-phase-share/</id><summary type="html">&lt;h4&gt;上海购房（二手房）指南/心得&lt;/h4&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-05-09T00:00:00+08:00</updated><entry><title>第9期分享活动</title><link href="http://happytechgroup.github.io/2015/05/09/9th-phase-share/" rel="alternate"></link><updated>2015-05-09T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-05-09:2015/05/09/9th-phase-share/</id><summary type="html">&lt;h4&gt;libevent使用简介&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;蕾哥：&lt;a href="http://pan.baidu.com/s/1o6mktIi"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;浅谈前端模版&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;icake：&lt;a href="http://gejiawen.github.io/2015/04/08/%E5%A4%A7%E5%89%8D%E7%AB%AF/%E6%B5%85%E8%B0%88%E5%89%8D%E7%AB%AF%E6%A8%A1%E7%89%88/"&gt;戳这里&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>第8期分享活动</title><link href="http://happytechgroup.github.io/2015/03/29/8th-phase-share/" rel="alternate"></link><updated>2015-03-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-03-29:2015/03/29/8th-phase-share/</id><summary type="html">&lt;h4&gt;上海购房（二手房）指南/心得&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;侯哥：&lt;a href="http://simonhou.github.io/second-hand-housing"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;爽哥：&lt;a href="http://pan.baidu.com/s/1bnEpYs3"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
@@ -41,125 +48,125 @@
 &lt;ul&gt;
 &lt;li&gt;youngsterxyf：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;阅读完《&lt;/span&gt;&lt;span class="n"&gt;Linux&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;UNIX&lt;/span&gt;&lt;span class="err"&gt;系统编程手册一书》，然后可能的话读一下&lt;/span&gt;&lt;span class="n"&gt;Nginx&lt;/span&gt;&lt;span class="err"&gt;的源码&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;围绕第&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="err"&gt;点的内容，做&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="err"&gt;次分享，时间分别大致为：&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="err"&gt;月、&lt;/span&gt;&lt;span class="mi"&gt;4&lt;/span&gt;&lt;span class="err"&gt;月、&lt;/span&gt;&lt;span class="mi"&gt;6&lt;/span&gt;&lt;span class="err"&gt;月&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 阅读完《Linux/UNIX系统编程手册一书》，然后可能的话读一下Nginx的源码
+2. 围绕第1点的内容，做3次分享，时间分别大致为：2月、4月、6月
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;任哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;读书计划：《&lt;/span&gt;&lt;span class="n"&gt;HTTP&lt;/span&gt;&lt;span class="err"&gt;权威指南》、《&lt;/span&gt;&lt;span class="n"&gt;Spring&lt;/span&gt;&lt;span class="err"&gt;技术内幕》、《深入理解&lt;/span&gt;&lt;span class="n"&gt;Nginx&lt;/span&gt;&lt;span class="err"&gt;》&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="n"&gt;MVCC&lt;/span&gt;&lt;span class="err"&gt;在数据库中的应用&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;总结&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="err"&gt;中的知识点心得&lt;/span&gt;
-&lt;span class="mf"&gt;4.&lt;/span&gt; &lt;span class="err"&gt;根据&lt;/span&gt;&lt;span class="mi"&gt;3&lt;/span&gt;&lt;span class="err"&gt;，争取做一到两次分享&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 读书计划：《HTTP权威指南》、《Spring技术内幕》、《深入理解Nginx》
+2. MVCC在数据库中的应用
+3. 总结1、2中的知识点心得
+4. 根据3，争取做一到两次分享
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;艳姐：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;学习：&lt;/span&gt;&lt;span class="n"&gt;Perl&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;extjs&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;阅读源码：&lt;/span&gt;&lt;span class="n"&gt;spring&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="n"&gt;cxf&lt;/span&gt; &lt;span class="o"&gt;/&lt;/span&gt; &lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="n"&gt;sqlite&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;暂定分享一次，大概&lt;/span&gt;&lt;span class="mi"&gt;7&lt;/span&gt;&lt;span class="err"&gt;月份&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 学习：Perl、extjs
+2. 阅读源码：spring / cxf / (sqlite)
+3. 暂定分享一次，大概7月份
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;爽哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;近期在读：《白帽子讲&lt;/span&gt;&lt;span class="n"&gt;web&lt;/span&gt;&lt;span class="err"&gt;安全》&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;掌握一个&lt;/span&gt;&lt;span class="n"&gt;Python&lt;/span&gt; &lt;span class="n"&gt;Web&lt;/span&gt;&lt;span class="err"&gt;框架的架构和实现：&lt;/span&gt;&lt;span class="n"&gt;Flask&lt;/span&gt;&lt;span class="err"&gt;，过程中输出一些关于这方面的分享&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;了解如何提供高并发的服务，读&lt;/span&gt;&lt;span class="n"&gt;Nginx&lt;/span&gt;&lt;span class="err"&gt;源码中关于这一部分的源码&lt;/span&gt;
-&lt;span class="mf"&gt;4.&lt;/span&gt; &lt;span class="err"&gt;学习&lt;/span&gt;&lt;span class="n"&gt;Obj&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;C&lt;/span&gt;&lt;span class="err"&gt;，写一个&lt;/span&gt;&lt;span class="n"&gt;iOS&lt;/span&gt;&lt;span class="err"&gt;应用&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 近期在读：《白帽子讲web安全》
+2. 掌握一个Python Web框架的架构和实现：Flask，过程中输出一些关于这方面的分享
+3. 了解如何提供高并发的服务，读Nginx源码中关于这一部分的源码
+4. 学习Obj-C，写一个iOS应用
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;龙哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;学习&lt;/span&gt;&lt;span class="n"&gt;Scala&lt;/span&gt;&lt;span class="err"&gt;：阅读《&lt;/span&gt;&lt;span class="n"&gt;Scala&lt;/span&gt; &lt;span class="k"&gt;for&lt;/span&gt; &lt;span class="n"&gt;the&lt;/span&gt; &lt;span class="n"&gt;Impatient&lt;/span&gt;&lt;span class="err"&gt;》、《&lt;/span&gt;&lt;span class="n"&gt;Programming&lt;/span&gt; &lt;span class="n"&gt;in&lt;/span&gt; &lt;span class="n"&gt;Scala&lt;/span&gt;&lt;span class="err"&gt;》；学习函数式编程理论&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;学习&lt;/span&gt;&lt;span class="n"&gt;C&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="err"&gt;：阅读《&lt;/span&gt;&lt;span class="n"&gt;Proramming&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Principles&lt;/span&gt; &lt;span class="n"&gt;and&lt;/span&gt; &lt;span class="n"&gt;Practice&lt;/span&gt; &lt;span class="n"&gt;Using&lt;/span&gt; &lt;span class="n"&gt;C&lt;/span&gt;&lt;span class="o"&gt;++&lt;/span&gt;&lt;span class="err"&gt;》&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;复习编译原理&lt;/span&gt;
-&lt;span class="mf"&gt;4.&lt;/span&gt; &lt;span class="err"&gt;分布式系统相关：分布式系统理论、&lt;/span&gt;&lt;span class="n"&gt;Spark&lt;/span&gt;&lt;span class="err"&gt;源码、&lt;/span&gt;&lt;span class="n"&gt;Kafka&lt;/span&gt;&lt;span class="err"&gt;源码&lt;/span&gt;
-&lt;span class="mf"&gt;5.&lt;/span&gt; &lt;span class="err"&gt;至于分享，暂时还没计划好，如果分享应该是关于分布式系统和&lt;/span&gt;&lt;span class="n"&gt;Hadoop&lt;/span&gt;&lt;span class="err"&gt;的&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 学习Scala：阅读《Scala for the Impatient》、《Programming in Scala》；学习函数式编程理论
+2. 学习C++：阅读《Proramming - Principles and Practice Using C++》
+3. 复习编译原理
+4. 分布式系统相关：分布式系统理论、Spark源码、Kafka源码
+5. 至于分享，暂时还没计划好，如果分享应该是关于分布式系统和Hadoop的
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;文哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;主要的&lt;/span&gt;&lt;span class="n"&gt;topic&lt;/span&gt;&lt;span class="err"&gt;：&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Nodejs&lt;/span&gt;&lt;span class="err"&gt;（&lt;/span&gt;&lt;span class="n"&gt;io&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;js&lt;/span&gt;&lt;span class="err"&gt;）的持续学习和关注：关注&lt;/span&gt;&lt;span class="n"&gt;npm&lt;/span&gt;&lt;span class="err"&gt;上的流行&lt;/span&gt;&lt;span class="n"&gt;package&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;koajs&lt;/span&gt;&lt;span class="err"&gt;学习和使用&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;大前端：工程化（重点研究&lt;/span&gt;&lt;span class="n"&gt;F&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;I&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;S&lt;/span&gt;&lt;span class="err"&gt;）、模块化&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="err"&gt;组件化、架构类&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="err"&gt;框架类（&lt;/span&gt;&lt;span class="n"&gt;ng&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;react&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;polymer&lt;/span&gt;&lt;span class="err"&gt;）&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;语言层面：&lt;/span&gt;&lt;span class="n"&gt;PHP&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;Go&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;Erlang&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;源码阅读：&lt;/span&gt;&lt;span class="n"&gt;YUI3&lt;/span&gt;&lt;span class="err"&gt;（包罗万象的框架，需要一定的时间和耐心）&lt;/span&gt;
-&lt;span class="mf"&gt;4.&lt;/span&gt; &lt;span class="n"&gt;Linux&lt;/span&gt;&lt;span class="err"&gt;相关：《鸟哥的&lt;/span&gt;&lt;span class="n"&gt;Linux&lt;/span&gt;&lt;span class="err"&gt;私房菜》摆脱&lt;/span&gt;&lt;span class="n"&gt;Linux&lt;/span&gt;&lt;span class="err"&gt;文盲，学一些基础知识和常用操作&lt;/span&gt;
-&lt;span class="mf"&gt;5.&lt;/span&gt; &lt;span class="err"&gt;阅读：&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;Web&lt;/span&gt;&lt;span class="err"&gt;性能优化类：《构建高性能&lt;/span&gt;&lt;span class="n"&gt;Web&lt;/span&gt;&lt;span class="err"&gt;站点》、《高性能网站建设指南》、《高性能网站建设进阶指南》之类的书籍&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;无线领域：《跨终端&lt;/span&gt;&lt;span class="n"&gt;Web&lt;/span&gt;&lt;span class="err"&gt;》、《&lt;/span&gt;&lt;span class="n"&gt;html5&lt;/span&gt;&lt;span class="err"&gt;移动&lt;/span&gt;&lt;span class="n"&gt;web&lt;/span&gt;&lt;span class="err"&gt;开发指南》&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;设计类：《简约至上&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="err"&gt;交互式设计四策略》、《用户体验的要素》&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="n"&gt;NodeJS&lt;/span&gt;&lt;span class="err"&gt;相关：《深入浅出&lt;/span&gt;&lt;span class="n"&gt;Nodejs&lt;/span&gt;&lt;span class="err"&gt;》、《&lt;/span&gt;&lt;span class="n"&gt;Nodejs&lt;/span&gt;&lt;span class="err"&gt;实战》&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;提升类：《编写高质量代码&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;Web&lt;/span&gt;&lt;span class="err"&gt;前端开发修炼之道》&lt;/span&gt;
-&lt;span class="mf"&gt;6.&lt;/span&gt; &lt;span class="err"&gt;沉淀与分享：&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;写博客；丰满系列博客；写读书&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="err"&gt;读文笔记&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;个人兴趣项目：&lt;/span&gt;&lt;span class="n"&gt;vip&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;版本化接口平台、&lt;/span&gt;&lt;span class="n"&gt;feem&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;前端异常监控平台、&lt;/span&gt;&lt;span class="n"&gt;ids&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;集成开发解决方案：前端开发工程化的研究积累&lt;/span&gt;
-    &lt;span class="o"&gt;-&lt;/span&gt; &lt;span class="err"&gt;分享（暂定）：&lt;/span&gt;&lt;span class="mi"&gt;1&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="err"&gt;个较重的分享，内容集中在大前端类。应该是工程化方面的东西，具体内容和时间尚不能确定；&lt;/span&gt;&lt;span class="mf"&gt;2.&lt;/span&gt;&lt;span class="err"&gt;一些轻量分享（&lt;/span&gt;&lt;span class="mi"&gt;20&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="mi"&gt;30&lt;/span&gt;&lt;span class="err"&gt;分钟之内），内容涉猎广泛，比如@&lt;/span&gt;&lt;span class="n"&gt;font&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;face&lt;/span&gt;&lt;span class="err"&gt;及页面字体美化、如何制作&lt;/span&gt;&lt;span class="n"&gt;nodejs&lt;/span&gt;&lt;span class="err"&gt;命令行工具、&lt;/span&gt;&lt;span class="n"&gt;css&lt;/span&gt;&lt;span class="err"&gt;动画、&lt;/span&gt;&lt;span class="n"&gt;ES6&lt;/span&gt;&lt;span class="o"&gt;&amp;amp;&lt;/span&gt;&lt;span class="n"&gt;ES7&lt;/span&gt;&lt;span class="err"&gt;等等&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 主要的topic：
+    - Nodejs（io.js）的持续学习和关注：关注npm上的流行package、koajs学习和使用
+    - 大前端：工程化（重点研究F.I.S）、模块化/组件化、架构类&amp;amp;框架类（ng、react、polymer）
+2. 语言层面：PHP、Go、Erlang
+3. 源码阅读：YUI3（包罗万象的框架，需要一定的时间和耐心）
+4. Linux相关：《鸟哥的Linux私房菜》摆脱Linux文盲，学一些基础知识和常用操作
+5. 阅读：
+    - Web性能优化类：《构建高性能Web站点》、《高性能网站建设指南》、《高性能网站建设进阶指南》之类的书籍
+    - 无线领域：《跨终端Web》、《html5移动web开发指南》
+    - 设计类：《简约至上-交互式设计四策略》、《用户体验的要素》
+    - NodeJS相关：《深入浅出Nodejs》、《Nodejs实战》
+    - 提升类：《编写高质量代码-Web前端开发修炼之道》
+6. 沉淀与分享：
+    - 写博客；丰满系列博客；写读书&amp;amp;读文笔记
+    - 个人兴趣项目：vip - 版本化接口平台、feem - 前端异常监控平台、ids - 集成开发解决方案：前端开发工程化的研究积累
+    - 分享（暂定）：1-2个较重的分享，内容集中在大前端类。应该是工程化方面的东西，具体内容和时间尚不能确定；2.一些轻量分享（20-30分钟之内），内容涉猎广泛，比如@font-face及页面字体美化、如何制作nodejs命令行工具、css动画、ES6&amp;amp;ES7等等
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;晓媚：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;语言学习：&lt;/span&gt;&lt;span class="n"&gt;Go&lt;/span&gt;&lt;span class="err"&gt;，学习些基础知识&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;源码阅读：&lt;/span&gt;&lt;span class="n"&gt;YUI3&lt;/span&gt;&lt;span class="err"&gt;，今年工作的项目上可能会用到&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="n"&gt;Hadoop&lt;/span&gt;&lt;span class="err"&gt;学习：学习在&lt;/span&gt;&lt;span class="n"&gt;CM&lt;/span&gt;&lt;span class="err"&gt;上搭建，可以的话写个小应用，了解一整个工作流程&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 语言学习：Go，学习些基础知识
+2. 源码阅读：YUI3，今年工作的项目上可能会用到
+3. Hadoop学习：学习在CM上搭建，可以的话写个小应用，了解一整个工作流程
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;侯哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;养成写博客的习惯，对知识点及时进行整理&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;深入学习&lt;/span&gt;&lt;span class="n"&gt;Python&lt;/span&gt;&lt;span class="err"&gt;，写个工具&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="err"&gt;或&lt;/span&gt;&lt;span class="n"&gt;Web&lt;/span&gt;&lt;span class="err"&gt;应用，用来管理业务流程&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;阅读《&lt;/span&gt;&lt;span class="n"&gt;MySQL&lt;/span&gt;&lt;span class="err"&gt;性能调优与架构设计》，尝试结合业务介绍数据库管理和&lt;/span&gt;&lt;span class="n"&gt;SQL&lt;/span&gt; &lt;span class="n"&gt;tuning&lt;/span&gt;&lt;span class="err"&gt;的分享&lt;/span&gt;
-&lt;span class="mf"&gt;4.&lt;/span&gt; &lt;span class="err"&gt;泡数据库相关论坛，收集应用案例和整理解决方法，写成小文章，加入自己理解后分享&lt;/span&gt;
-&lt;span class="mf"&gt;5.&lt;/span&gt; &lt;span class="err"&gt;阅读《&lt;/span&gt;&lt;span class="n"&gt;MongoDB&lt;/span&gt;&lt;span class="err"&gt;实战》，整理心得&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 养成写博客的习惯，对知识点及时进行整理
+2. 深入学习Python，写个工具/或Web应用，用来管理业务流程
+3. 阅读《MySQL性能调优与架构设计》，尝试结合业务介绍数据库管理和SQL tuning的分享
+4. 泡数据库相关论坛，收集应用案例和整理解决方法，写成小文章，加入自己理解后分享
+5. 阅读《MongoDB实战》，整理心得
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;松哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="n"&gt;linux&lt;/span&gt;&lt;span class="err"&gt;系统，准备系统学一遍，包括一些工具使用和内核设计相关内容&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="n"&gt;SDN&lt;/span&gt;&lt;span class="err"&gt;、&lt;/span&gt;&lt;span class="n"&gt;openflow&lt;/span&gt;&lt;span class="err"&gt;，准备把协议阅读一遍，同时尝试搞点硬件找地方搭个环境出来&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;针对&lt;/span&gt;&lt;span class="mi"&gt;2&lt;/span&gt;&lt;span class="err"&gt;会做一到两次分享，应该是下半年&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. linux系统，准备系统学一遍，包括一些工具使用和内核设计相关内容
+2. SDN、openflow，准备把协议阅读一遍，同时尝试搞点硬件找地方搭个环境出来
+3. 针对2会做一到两次分享，应该是下半年
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;蕾哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;学习&lt;/span&gt;&lt;span class="n"&gt;libevent&lt;/span&gt;&lt;span class="err"&gt;，包括源码和写一些&lt;/span&gt;&lt;span class="n"&gt;demo&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;学习&lt;/span&gt;&lt;span class="n"&gt;Nginx&lt;/span&gt;&lt;span class="err"&gt;源码&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;学习&lt;/span&gt;&lt;span class="n"&gt;Go&lt;/span&gt;&lt;span class="err"&gt;，看是否能在工作中有所应用&lt;/span&gt;
-&lt;span class="mf"&gt;4.&lt;/span&gt; &lt;span class="err"&gt;针对上述主题，做一到两次分享&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 学习libevent，包括源码和写一些demo
+2. 学习Nginx源码
+3. 学习Go，看是否能在工作中有所应用
+4. 针对上述主题，做一到两次分享
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;镔哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="mf"&gt;1.&lt;/span&gt; &lt;span class="err"&gt;继续阅读看了一半的《高性能&lt;/span&gt;&lt;span class="n"&gt;mysql&lt;/span&gt;&lt;span class="err"&gt;》&lt;/span&gt;
-&lt;span class="mf"&gt;2.&lt;/span&gt; &lt;span class="err"&gt;学习&lt;/span&gt;&lt;span class="n"&gt;HTML5&lt;/span&gt;
-&lt;span class="mf"&gt;3.&lt;/span&gt; &lt;span class="err"&gt;阅读&lt;/span&gt;&lt;span class="n"&gt;Spark&lt;/span&gt;&lt;span class="err"&gt;开源硬件的源码&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1. 继续阅读看了一半的《高性能mysql》
+2. 学习HTML5
+3. 阅读Spark开源硬件的源码
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;ul&gt;
 &lt;li&gt;潜哥：&lt;/li&gt;
 &lt;/ul&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="err"&gt;机器学习&lt;/span&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;机器学习
 &lt;/pre&gt;&lt;/div&gt;
 
 
