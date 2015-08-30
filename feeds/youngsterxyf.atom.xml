@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-08-09T00:00:00+08:00</updated><entry><title>第11期分享活动</title><link href="http://happytechgroup.github.io/2015/08/09/11th-phase-share/" rel="alternate"></link><updated>2015-08-09T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-08-09:2015/08/09/11th-phase-share/</id><summary type="html">&lt;h4&gt;Spring框架核心简介&lt;/h4&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-08-29T00:00:00+08:00</updated><entry><title>第12期分享</title><link href="http://happytechgroup.github.io/2015/08/29/12th-phase-share/" rel="alternate"></link><updated>2015-08-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-08-29:2015/08/29/12th-phase-share/</id><summary type="html">&lt;h4&gt;Introduction to Kafka&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;龙哥：&lt;a href="http://pan.baidu.com/s/1gdhLU4j"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Spark浅说&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;youngsterxyf：&lt;a href="http://pan.baidu.com/s/1gdB8gLl"&gt;幻灯片&lt;/a&gt; （借用了Reynold Xin @rxin的PPT，多谢大神）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;因为聚乐部成立已一年有余，分享也搞了12期，本想分享之后大家去聚餐的，但结果是大雨加上人不多，只好等下次人多了再聚餐。&lt;/p&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>第11期分享活动</title><link href="http://happytechgroup.github.io/2015/08/09/11th-phase-share/" rel="alternate"></link><updated>2015-08-09T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-08-09:2015/08/09/11th-phase-share/</id><summary type="html">&lt;h4&gt;Spring框架核心简介&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;艳姐：&lt;a href="http://pan.baidu.com/s/1dDCWAE9"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
