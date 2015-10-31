@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-08-29T00:00:00+08:00</updated><entry><title>第12期分享</title><link href="http://happytechgroup.github.io/2015/08/29/12th-phase-share/" rel="alternate"></link><updated>2015-08-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-08-29:2015/08/29/12th-phase-share/</id><summary type="html">&lt;h4&gt;Introduction to Kafka&lt;/h4&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>众成技术聚乐部</title><link href="http://happytechgroup.github.io/" rel="alternate"></link><link href="http://happytechgroup.github.io/feeds/youngsterxyf.atom.xml" rel="self"></link><id>http://happytechgroup.github.io/</id><updated>2015-10-31T00:00:00+08:00</updated><entry><title>第13期分享</title><link href="http://happytechgroup.github.io/2015/10/31/13th-phase-share/" rel="alternate"></link><updated>2015-10-31T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-10-31:2015/10/31/13th-phase-share/</id><summary type="html">&lt;h2&gt;本月分享&lt;/h2&gt;
+&lt;h3&gt;工作中的那点技术事儿&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;分享人：&lt;a href="https://github.com/youngsterxyf"&gt;youngsterxyf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;幻灯片：&lt;a href="http://pan.baidu.com/s/1gdg4xyV"&gt;见这里&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Javascript Async Ninja&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;分享人：&lt;a href="https://github.com/gejiawen"&gt;gejiawen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;幻灯片：&lt;a href="http://gejiawen.github.io/slides/javascript-async-ninja/#/"&gt;见这里&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;计划安排&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;讨论新的一年的主题安排，邮件征集&lt;/li&gt;
+&lt;li&gt;引入QQ视频会议，方便参与，吸引更多的人参与&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;谢谢！&lt;/p&gt;</summary><category term="分享"></category><category term="记录"></category></entry><entry><title>第12期分享</title><link href="http://happytechgroup.github.io/2015/08/29/12th-phase-share/" rel="alternate"></link><updated>2015-08-29T00:00:00+08:00</updated><author><name>youngsterxyf</name></author><id>tag:happytechgroup.github.io,2015-08-29:2015/08/29/12th-phase-share/</id><summary type="html">&lt;h4&gt;Introduction to Kafka&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;龙哥：&lt;a href="http://pan.baidu.com/s/1gdhLU4j"&gt;幻灯片&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
