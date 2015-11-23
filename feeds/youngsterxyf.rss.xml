@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 31 Oct 2015 00:00:00 +0800</lastBuildDate><item><title>第13期分享</title><link>http://happytechgroup.github.io/2015/10/31/13th-phase-share/</link><description>&lt;h2&gt;本月分享&lt;/h2&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 24 Nov 2015 00:00:00 +0800</lastBuildDate><item><title>新一期分享计划建议</title><link>http://happytechgroup.github.io/2015/11/24/new-plan-proposals/</link><description>&lt;p&gt;从去年8月筹划开始到现在，众成技术聚乐部已举行13期分享。&lt;/p&gt;
+&lt;p&gt;其中，第1期到第6期属于第1轮分享计划，该轮分享由成员一起讨论确定了主题范围，然后每期分享活动会确定下一期分享的题目与分享人，由成员主动提出分享。&lt;/p&gt;
+&lt;p&gt;第7期到第13期属于第2轮分享计划，该轮分享在运作流程上有了点变化 - 成员一起讨论确定了基本的主题范围后，预先向每个成员征集分享题目，然后对分享进行排期。虽然最后实际的分享与排期有所不同，但基本符合预期安排，使得聚乐部的运行更加稳定可持续。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;新一轮的分享即将开始，计划排期的产生方式与第2轮的大致相同，不同之处在于：这一轮的分享计划不再事先确定具体的技术主题范围，以方便各个技术方向的朋友参与进来。替代具体技术主题范围的是两个技术关键词：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;架构&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;性能&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;这两个关键词内涵比较宽泛，应该能适用于各个技术方向。&lt;/p&gt;
+&lt;p&gt;所有与这两个关键词相关的技术内容都鼓励分享（当然，不相关的也可以分享，只不过围绕关键词进行分享，大家的关注点可能更集中），而具体的分享内容来源，推荐以下几个：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;工作相关的技术心得总结：解决了什么性能问题？某些工作涉及一些架构问题？&lt;/li&gt;
+&lt;li&gt;编写了某个开源程序，代码中实践了某种高性能方案或用了某种架构模式&lt;/li&gt;
+&lt;li&gt;某个优秀开源项目的源码阅读心得，在架构或性能处理上有些值得一提的细节或亮点&lt;/li&gt;
+&lt;li&gt;阅读某本优秀技术书籍的心得总结&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;围绕上面提出的两个技术关键词和推荐的几个分享内容来源，聚乐部成员各自提出自己的分享计划，然后对大家的计划进行汇总排期，形成聚乐部新一轮的分享计划。&lt;/p&gt;
+&lt;p&gt;大家一起来接着High！&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;img alt="Our Logo" src="https://avatars0.githubusercontent.com/u/8257757?v=3&amp;amp;amp;s=200" /&gt;&lt;/p&gt;
+&lt;p&gt;Sharing for creation 分享、创造&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Tue, 24 Nov 2015 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2015-11-24:2015/11/24/new-plan-proposals/</guid><category>记录</category><category>计划</category></item><item><title>第13期分享</title><link>http://happytechgroup.github.io/2015/10/31/13th-phase-share/</link><description>&lt;h2&gt;本月分享&lt;/h2&gt;
 &lt;h3&gt;工作中的那点技术事儿&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;分享人：&lt;a href="https://github.com/youngsterxyf"&gt;youngsterxyf&lt;/a&gt;&lt;/li&gt;
