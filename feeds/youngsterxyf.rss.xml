@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 24 Nov 2015 00:00:00 +0800</lastBuildDate><item><title>新一轮分享筹划</title><link>http://happytechgroup.github.io/2015/11/24/new-plan-prepare/</link><description>&lt;p&gt;从去年8月筹划开始到现在，众成技术聚乐部已举行13期分享。&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>众成技术聚乐部</title><link>http://happytechgroup.github.io/</link><description></description><atom:link href="http://happytechgroup.github.io/feeds/youngsterxyf.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 13 Dec 2015 00:00:00 +0800</lastBuildDate><item><title>第14期分享</title><link>http://happytechgroup.github.io/2015/12/13/14th-phase-share/</link><description>&lt;h2&gt;Jenkins CI&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;分享人：晓媚&lt;/li&gt;
+&lt;li&gt;幻灯片：&lt;a href="http://pan.baidu.com/s/1kUqnAlT"&gt;见这里&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr /&gt;
+&lt;p&gt;谢谢大家！&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">youngsterxyf</dc:creator><pubDate>Sun, 13 Dec 2015 00:00:00 +0800</pubDate><guid>tag:happytechgroup.github.io,2015-12-13:2015/12/13/14th-phase-share/</guid><category>分享</category><category>记录</category></item><item><title>新一轮分享筹划</title><link>http://happytechgroup.github.io/2015/11/24/new-plan-prepare/</link><description>&lt;p&gt;从去年8月筹划开始到现在，众成技术聚乐部已举行13期分享。&lt;/p&gt;
 &lt;p&gt;其中，第1期到第6期属于第1轮分享计划，该轮分享由成员一起讨论确定了主题范围，然后每期分享活动会确定下一期分享的题目与分享人，由成员主动提出分享。&lt;/p&gt;
 &lt;p&gt;第7期到第13期属于第2轮分享计划，该轮分享在运作流程上有了点变化 - 成员一起讨论确定了基本的主题范围后，预先向每个成员征集分享题目，然后对分享进行排期。虽然最后实际的分享与排期有所不同，但基本符合预期安排，使得聚乐部的运行更加稳定可持续。&lt;/p&gt;
 &lt;hr /&gt;
